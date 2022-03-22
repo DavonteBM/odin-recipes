@@ -1,2 +1,2 @@
 # odin-recipes
-This program will be a simple HTMl document showing Recipes in the caribbean
+This program will be a simple HTML document showing Recipes in the caribbean
